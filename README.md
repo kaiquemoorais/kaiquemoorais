@@ -1,7 +1,4 @@
 - 🔭 I’m Kaique Moorais
-- 🌱 I’m 20 years
-
-  
 
 
 <div style='display: flex; justify-content: space-around; width: 270px;'>
